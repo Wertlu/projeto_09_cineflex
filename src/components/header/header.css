@@ -1,0 +1,31 @@
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 67px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #c3cfd9;
+}
+
+header h1 {
+  text-transform: uppercase;
+  color: #e8833a;
+  font-size: 34px;
+  line-height: 40px;
+}
+
+header button{
+  width: 70px;
+  height: 34px;
+  background-color: #e8833a;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.02em;
+  position: absolute;
+  left: 25px;
+}
